@@ -11,6 +11,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
