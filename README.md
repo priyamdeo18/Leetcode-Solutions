@@ -14,6 +14,7 @@
 | [0006-zigzag-conversion](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0022-generate-parentheses](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
