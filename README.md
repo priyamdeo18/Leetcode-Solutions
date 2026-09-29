@@ -42,6 +42,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0029-divide-two-integers](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +72,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/priyamdeo18/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
